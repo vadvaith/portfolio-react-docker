@@ -100,8 +100,10 @@ function App() {
             </div>
           </div>
         </nav>
+        
         <div className="banner">
           <div className="container">
+            
             <h1>Advaith Venkatsubramanian</h1>
             <p>
               advaithvenkat@gmail.com | avenk138@asu.edu | 602-751-0672 | Tempe, AZ
